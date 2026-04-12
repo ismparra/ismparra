@@ -67,6 +67,22 @@
    <a href="#" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+	&emsp;
+   <a href="#" target="_blank">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%2314354C.svg?style=plastic&logo=kotlin&logoColor=white">
+  </a>
+</p>
+
+### Databases
+<p align="center"> 
+  &emsp; 
+  <a href="#" target="_blank"> 
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%232370ED.svg?style=plastic&logo=Mysql&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite%20-%2300599C.svg?style=plastic&logo=SQLite%2B%2B&logoColor=white">
+  </a> 
 </p>
 
 ### Frontend Development
